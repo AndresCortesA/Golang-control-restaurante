@@ -1,9 +1,9 @@
 package main
 
 import (
+	"golang-RestauranteControl/database"
 	"golang-RestauranteControl/middleware"
 	"golang-RestauranteControl/routes"
-	"golang-RestauranteControl]/database"
 	"os"
 
 	"github.com/gin-gonic/gin"
